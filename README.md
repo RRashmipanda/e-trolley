@@ -4,11 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Project Description:
 
-Project Name: E-Trolley
+# Project Name: E-Trolley
 
 E-Trolley is a React-based web application that simulates an online shopping platform. It provides users with a shopping cart functionality, product filtering, and a seamless browsing experience. Users can search for products, add them to their cart, and proceed to the checkout page.
 
-Technologies:
+# Technologies:
 
 1. React.js: Utilized React.js to build a dynamic and responsive user interface, enhancing the shopping experience.
 
