@@ -3,7 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Project Description:
-
+# Live 
+https://rrpanda.netlify.app
 # Project Name: E-Trolley
 
 E-Trolley is a React-based web application that simulates an online shopping platform. It provides users with a shopping cart functionality, product filtering, and a seamless browsing experience. Users can search for products, add them to their cart, and proceed to the checkout page.
